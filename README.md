@@ -6,6 +6,5 @@ This repository primarily follows Andrej's series as the main learning guide. Ad
 Use Andrej's series (https://karpathy.ai/zero-to-hero.html) for structured learning.
 
 For a schematic view of how LLMs work, follow this link: [LLM Schematic](https://bbycroft.net/llm)
-"
 
 
